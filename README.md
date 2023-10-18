@@ -1,6 +1,6 @@
 ## Изучение Bootstrap 5
 
-Изучаю Bootstrap для работы с проектом по работе
+Изучаю Bootstrap 5 для работы с разрабываемым сайтом
 
 Смотрю видео на канале [ITDoctor](https://www.youtube.com/@ITDoctor/videos)
 
